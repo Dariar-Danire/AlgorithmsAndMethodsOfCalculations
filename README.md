@@ -15,4 +15,6 @@
    + [Интерполяционный полином Лагранжа](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculations/blob/master/src/main/java/com/example/algorithmsandmethodsofcalculations/lab4/LagrangeMethod.java).
    + [Метод кубических сплайнов](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculations/blob/master/src/main/java/com/example/algorithmsandmethodsofcalculations/lab4/CubicSplineInterpolation.java).
 5. [Лабораторная работа №5. Аппроксимация триганометрическими функциями. Ряды Фурье](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculations/tree/master/src/main/java/com/example/algorithmsandmethodsofcalculations/lab5):
-6. [Лабораторная работа №6.]
+   + [Преобразование рядами Фурье]().
+6. [Лабораторная работа №6. Многомерная оптимизация непрерывных функций]().
+7. [Лабораторная работа №7. Многомерная дискретная оптимизация]().
