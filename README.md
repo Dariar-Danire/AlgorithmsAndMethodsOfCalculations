@@ -1,1 +1,1 @@
-#AlgorithmsAndMethodsOfCalculations#
+#AlgorithmsAndMethodsOfCalculations
