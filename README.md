@@ -17,4 +17,5 @@
 5. [Лабораторная работа №5. Аппроксимация триганометрическими функциями. Ряды Фурье](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculations/tree/master/src/main/java/com/example/algorithmsandmethodsofcalculations/lab5):
    + [Преобразование рядами Фурье](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculationsPython/tree/master/lab5).
 6. [Лабораторная работа №6. Многомерная оптимизация непрерывных функций]().
-7. [Лабораторная работа №7. Многомерная дискретная оптимизация]().
+   + [Метод Хука-Дживса минимизации нелинейных функционалов без ограничений](https://github.com/Dariar-Danire/AlgorithmsAndMethodsOfCalculationsJava/blob/master/src/main/java/com/example/algorithmsandmethodsofcalculations/lab6/HookJeevesMethod.java).
+8. [Лабораторная работа №7. Многомерная дискретная оптимизация]().
