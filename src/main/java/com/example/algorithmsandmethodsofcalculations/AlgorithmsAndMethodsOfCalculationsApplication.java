@@ -1,6 +1,6 @@
 package com.example.algorithmsandmethodsofcalculations;
 
-import com.example.algorithmsandmethodsofcalculations.lab6.HookJeevesMethod;
+import com.example.algorithmsandmethodsofcalculations.lab7.GreedyAlgorithm;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -8,8 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AlgorithmsAndMethodsOfCalculationsApplication {
 
     public static void main(String[] args) {
-        HookJeevesMethod.solve();
-
+        GreedyAlgorithm.solve();
 
         SpringApplication.run(AlgorithmsAndMethodsOfCalculationsApplication.class, args);
     }
